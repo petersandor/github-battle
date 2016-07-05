@@ -1,0 +1,32 @@
+{
+  "name": "github-battle",
+  "version": "1.0.0",
+  "description": "A small app developed as a part of React Fundamentals course",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "production": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petersandor/github-battle.git"
+  },
+  "author": "Peter Sandor <peter@petersandor.name> (https://petersandor.name)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petersandor/github-battle/issues"
+  },
+  "homepage": "https://github.com/petersandor/github-battle#readme",
+  "dependencies": {
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.11.1",
+    "html-webpack-plugin": "^2.22.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
