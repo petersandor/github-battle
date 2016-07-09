@@ -19,6 +19,7 @@
   "homepage": "https://github.com/petersandor/github-battle#readme",
   "dependencies": {
     "axios": "^0.12.0",
+    "bootstrap": "^3.3.6",
     "react": "^15.2.0",
     "react-addons-css-transition-group": "^15.2.0",
     "react-dom": "^15.2.0",
@@ -29,6 +30,7 @@
     "babel-loader": "^6.2.4",
     "babel-preset-react": "^6.11.1",
     "css-loader": "^0.23.1",
+    "file-loader": "^0.9.0",
     "html-webpack-plugin": "^2.22.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
